@@ -1,0 +1,25 @@
+.a{
+    height: 100px;
+    width: 100px;
+    background-color: teal;
+    position: relative;
+    left: 210px;
+    display: inline-block;
+}
+.b{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    display : inline-block;
+    position: relative;
+    right: 100px;
+}
+.c{
+    height: 100px;
+    width: 100px;
+    background-color: chocolate;
+    display:  inline-block;
+    position: absolute;
+    right:650px;
+    
+}
